@@ -6,6 +6,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".hound.yml" type="PLAIN_TEXT" />
       <mapping pattern="postcards.php" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
